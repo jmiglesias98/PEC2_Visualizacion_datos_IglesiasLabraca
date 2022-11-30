@@ -1,5 +1,5 @@
 # A5: Estudio de técnicas de visualización de datos (PEC2)
-Este repositorio será usado para presentar las distintas visualizaciones realizadas en la PEC2 de la asignatura BBDD no tradicionales del Máster en Ciencia de datos de la UOC.
+Este repositorio será usado para presentar las distintas visualizaciones realizadas en la PEC2 de la asignatura Visualización de datos del Máster en Ciencia de datos de la UOC.
 
 El código y los datos usados para el gráfico de área y el diagrama de VENN pueden encontrarse en el siguiente Zip:
 
